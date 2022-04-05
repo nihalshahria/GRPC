@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/mnt/fccee943-5f64-4d34-8cf5-f3760a9345bb/Programming/C#/GRPC-Server/grpcServer/grpcServer.csproj": {}
+    "/media/nihalshahria/Personal/Programming/Github/GRPC/grpcServer/grpcServer.csproj": {}
   },
   "projects": {
-    "/mnt/fccee943-5f64-4d34-8cf5-f3760a9345bb/Programming/C#/GRPC-Server/grpcServer/grpcServer.csproj": {
+    "/media/nihalshahria/Personal/Programming/Github/GRPC/grpcServer/grpcServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/mnt/fccee943-5f64-4d34-8cf5-f3760a9345bb/Programming/C#/GRPC-Server/grpcServer/grpcServer.csproj",
+        "projectUniqueName": "/media/nihalshahria/Personal/Programming/Github/GRPC/grpcServer/grpcServer.csproj",
         "projectName": "grpcServer",
-        "projectPath": "/mnt/fccee943-5f64-4d34-8cf5-f3760a9345bb/Programming/C#/GRPC-Server/grpcServer/grpcServer.csproj",
+        "projectPath": "/media/nihalshahria/Personal/Programming/Github/GRPC/grpcServer/grpcServer.csproj",
         "packagesPath": "/home/nihalshahria/.nuget/packages/",
-        "outputPath": "/mnt/fccee943-5f64-4d34-8cf5-f3760a9345bb/Programming/C#/GRPC-Server/grpcServer/obj/",
+        "outputPath": "/media/nihalshahria/Personal/Programming/Github/GRPC/grpcServer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/nihalshahria/.nuget/NuGet/NuGet.Config"

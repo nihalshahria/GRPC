@@ -5,7 +5,54 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35ca36cd-71d7-4b84-9b24-6dfc46855d01" name="Changes" comment="user.proto modified">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/GrpcClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/GrpcClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/GRPC-Client-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/GRPC-Client-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/BouncyCastle.Crypto.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/BouncyCastle.Crypto.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/Google.Protobuf.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/Google.Protobuf.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/Grpc.AspNetCore.Server.ClientFactory.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/Grpc.AspNetCore.Server.ClientFactory.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/Grpc.AspNetCore.Server.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/Grpc.AspNetCore.Server.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/Grpc.Core.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/Grpc.Core.Api.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/Grpc.Net.Client.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/Grpc.Net.Client.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/Grpc.Net.ClientFactory.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/Grpc.Net.ClientFactory.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/Grpc.Net.Common.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/Grpc.Net.Common.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/K4os.Compression.LZ4.Streams.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/K4os.Compression.LZ4.Streams.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/K4os.Compression.LZ4.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/K4os.Compression.LZ4.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/K4os.Hash.xxHash.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/K4os.Hash.xxHash.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/MySql.Data.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/MySql.Data.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/System.Drawing.Common.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/System.Drawing.Common.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/System.Security.Permissions.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/System.Security.Permissions.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/System.Windows.Extensions.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/System.Windows.Extensions.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/Ubiety.Dns.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/Ubiety.Dns.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/ZstdNet.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/ZstdNet.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/grpcServer" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/grpcServer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/grpcServer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/grpcServer.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/grpcServer.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/grpcServer.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServer/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServer/obj/Debug/net6.0/apphost" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServer/obj/Debug/net6.0/apphost" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServer/obj/Debug/net6.0/grpcServer.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServer/obj/Debug/net6.0/grpcServer.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServer/obj/Debug/net6.0/grpcServer.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServer/obj/Debug/net6.0/grpcServer.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServer/obj/Debug/net6.0/grpcServer.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServer/obj/Debug/net6.0/grpcServer.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServer/obj/Debug/net6.0/grpcServer.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServer/obj/Debug/net6.0/grpcServer.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServer/obj/Debug/net6.0/grpcServer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServer/obj/Debug/net6.0/grpcServer.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServer/obj/Debug/net6.0/grpcServer.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServer/obj/Debug/net6.0/grpcServer.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServer/obj/Debug/net6.0/grpcServer.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServer/obj/Debug/net6.0/grpcServer.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServer/obj/Debug/net6.0/project.razor.json" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServer/obj/Debug/net6.0/project.razor.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServer/obj/grpcServer.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServer/obj/grpcServer.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServer/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServer/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServer/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServer/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grpcServer/obj/staticwebassets.pack.sentinel" beforeDir="false" afterPath="$PROJECT_DIR$/../grpcServer/obj/staticwebassets.pack.sentinel" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,12 +67,13 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="26q5uwUTmKKM4qRsGrQKG2SpfjI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -79,6 +127,7 @@
       <workItem from="1648567744276" duration="2509000" />
       <workItem from="1648803698244" duration="41000" />
       <workItem from="1648803760857" duration="1034000" />
+      <workItem from="1649165255324" duration="329000" />
     </task>
     <task id="LOCAL-00001" summary="user.proto modified">
       <created>1648571337214</created>

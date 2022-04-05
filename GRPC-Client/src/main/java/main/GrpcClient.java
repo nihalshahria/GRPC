@@ -14,41 +14,45 @@ public class GrpcClient {
 
         Scanner sc = new Scanner(System.in);
         while (true) {
-            System.out.println("Choose one: 1: Register    2. Login");
-            int choice = Integer.parseInt(sc.nextLine());
-            System.out.print("Username: ");
-            String userName = sc.nextLine();
-            System.out.print("Password: ");
-            String password = sc.nextLine();
-            switch (choice) {
-                case 1: {
-                    //        todo:register
-                    UserOuterClass.UserModel userModel = UserOuterClass.UserModel.newBuilder()
-                            .setUsername(userName)
-                            .setPassword(password)
-                            .build();
-                    UserOuterClass.APIResponse response = userStub.createUser(userModel);
-                    System.out.println(response);
-                    break;
+            try {
+
+
+                System.out.println("Choose one: 1: Register    2. Login");
+                int choice = Integer.parseInt(sc.nextLine());
+                System.out.print("Username: ");
+                String userName = sc.nextLine();
+                System.out.print("Password: ");
+                String password = sc.nextLine();
+                switch (choice) {
+                    case 1: {
+                        //        todo:register
+                        UserOuterClass.UserModel userModel = UserOuterClass.UserModel.newBuilder()
+                                .setUsername(userName)
+                                .setPassword(password)
+                                .build();
+                        UserOuterClass.APIResponse response = userStub.createUser(userModel);
+                        System.out.println(response);
+                        break;
+                    }
+                    case 2: {
+                        //todo: login
+                        UserOuterClass.LoginRequest loginRequest = UserOuterClass.LoginRequest.newBuilder()
+                                .setUsername(userName)
+                                .setPassword(password)
+                                .build();
+                        UserOuterClass.APIResponse response = userStub.login(loginRequest);
+                        System.out.println(response);
+                        break;
+                    }
+                    default: {
+                        return;
+                    }
                 }
-                case 2: {
-                    //todo: login
-                    UserOuterClass.LoginRequest loginRequest = UserOuterClass.LoginRequest.newBuilder()
-                            .setUsername(userName)
-                            .setPassword(password)
-                            .build();
-                    UserOuterClass.APIResponse response = userStub.login(loginRequest);
-                    System.out.println(response);
-                    break;
-                }
-                default:{
-                    return;
-                }
+
+            } catch (NumberFormatException e) {
+
             }
-
-
         }
-
 
 
 //        System.out.println(response);
